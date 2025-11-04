@@ -3,8 +3,9 @@ import { useCallback, useId, useState } from 'react';
 import { pdfjs, Document, Page } from 'react-pdf';
 import 'react-pdf/dist/Page/AnnotationLayer.css';
 import 'react-pdf/dist/Page/TextLayer.css';
+import React from "react";
 
-import type { PDFDocumentProxy } from 'pdfjs-dist';
+// import type { PDFDocumentProxy } from 'pdfjs-dist';
 
 pdfjs.GlobalWorkerOptions.workerSrc = new URL(
   'pdfjs-dist/build/pdf.worker.min.mjs',
@@ -18,7 +19,7 @@ const options = {
 };
 
 
-function CV() {
+const CV = () => {
   const [numPages, setNumPages] = useState<number>(2);
   const [pageNumber, setPageNumber] = useState<number>(1);
 
@@ -28,14 +29,9 @@ function CV() {
 
   return (
     <div>
-      <Document file="../assets/images/CV_Kwok_Sofia.pdf" onLoadSuccess={onDocumentLoadSuccess}>
-        <Page pageNumber={pageNumber} />
-      </Document>
-      <p>
-        Page {pageNumber} of {numPages}
-      </p>
+    <iframe src="../assets/images/CV_Kwok_Sofia.pdf" width="100%" height="600px" />
     </div>
-  );
+ );
 }
 
 export default CV;
