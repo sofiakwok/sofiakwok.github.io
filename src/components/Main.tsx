@@ -8,17 +8,6 @@ import profile_pic from '../assets/images/IMG_1906_2.png';
 import '../assets/styles/Main.scss';
 
 function Main() {
-
-  const scrollToSection = () => {
-    const expertiseElement = document.getElementById("projects");
-    if (expertiseElement) {
-      expertiseElement.scrollIntoView({ behavior: 'smooth' });
-      console.log('Scrolling to:', expertiseElement);  // Debugging: Ensure the element is found
-    } else {
-      console.error('Element with id "expertise" not found');  // Debugging: Log error if element is not found
-    }
-  };
-
   return (
     <div className="container">
       
@@ -35,7 +24,9 @@ function Main() {
           </div>
           <h1>Sofia Kwok</h1>
           <p>Hello! I am an engineer interested in space, robots, and space robots. 
-            I currently work at Starfish Space, an in-orbit satellite servicing startup in Seattle. </p>
+            I currently work at <a target='_blank' rel='noopener noreferrer' 
+            href="https://www.starfishspace.com/"> <u>Starfish Space</u>, </a>
+            an in-orbit satellite servicing startup in Seattle.</p>
           <p>I have a Master of Science in Robotics from Carnegie Mellon University and a Bachelor of Science in Mechanical Engineering from the California Institute of Technology. 
             My past experience includes building a bipedal robot, designing a percussive drill for lunar regolith, and creating robot arms that can solve jigsaw puzzles and play Bananagrams.
             For more details, refer to my 
