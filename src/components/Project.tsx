@@ -29,7 +29,7 @@ function Project() {
                 <p>Supported redesign, validation, and testing of RESOURCE, an in-situ sampling system for lunar regolith. 
                     This drill was able to do in-situ sampling by integrating all of the instruments into the drill bit. 
                     Designed drill body to bit subsystem, sourced a custom optics system, and built testing setup for in-house evaluation.
-                    Resulted in an increase from TRL 1 to TRL 4 with environmental testing at NASA Ames.</p>
+                    Resulted in an increase from TRL 1 to TRL 6 with environmental testing at NASA Ames.</p>
             </div>
             <div className="project">
                 <a href="https://www.cs.cmu.edu/~hgeyer/Teaching_16-711.html" target="_blank" rel="noreferrer"><img src={bananabot} className="zoom" alt="thumbnail" width="100%"/></a>
