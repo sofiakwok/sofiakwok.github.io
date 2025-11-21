@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio-template-spoon/static/css/main.26f93ef0.css",
-    "main.js": "/react-portfolio-template-spoon/static/js/main.a232769a.js",
-    "static/js/453.9af26e59.chunk.js": "/react-portfolio-template-spoon/static/js/453.9af26e59.chunk.js",
-    "static/media/IMG_1906_2.png": "/react-portfolio-template-spoon/static/media/IMG_1906_2.e1567337111446027455.png",
-    "static/media/pdf.worker.min.mjs": "/react-portfolio-template-spoon/static/media/pdf.worker.min.5ef0e03453be5fb6f604.mjs",
-    "static/media/bg-light.png": "/react-portfolio-template-spoon/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/elementary.png": "/react-portfolio-template-spoon/static/media/elementary.fc5e4ec11d92036d14ae.png",
-    "static/media/bananabot.jpg": "/react-portfolio-template-spoon/static/media/bananabot.309ce510c3135d9e3339.jpg",
-    "static/media/honeybee.jpg": "/react-portfolio-template-spoon/static/media/honeybee.b33c6a76d7a58dbaa306.jpg",
-    "static/media/bolt_rw.jpg": "/react-portfolio-template-spoon/static/media/bolt_rw.5b975e031f86bc1f34ba.jpg",
-    "static/media/peltier.jpg": "/react-portfolio-template-spoon/static/media/peltier.84ecf50dcbcbba9eac24.jpg",
-    "static/media/puzzlebot.jpg": "/react-portfolio-template-spoon/static/media/puzzlebot.bfe8da61939969b806b3.jpg",
-    "static/media/sumobot_2.jpg": "/react-portfolio-template-spoon/static/media/sumobot_2.5af0226652d26c365811.jpg",
-    "static/media/space_bg.svg": "/react-portfolio-template-spoon/static/media/space_bg.05698379b8f349eb8d7a.svg",
-    "static/media/kidnapped.jpg": "/react-portfolio-template-spoon/static/media/kidnapped.56696655f534d54facd5.jpg",
-    "index.html": "/react-portfolio-template-spoon/index.html",
-    "main.26f93ef0.css.map": "/react-portfolio-template-spoon/static/css/main.26f93ef0.css.map",
-    "main.a232769a.js.map": "/react-portfolio-template-spoon/static/js/main.a232769a.js.map",
-    "453.9af26e59.chunk.js.map": "/react-portfolio-template-spoon/static/js/453.9af26e59.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.47c80e10.css",
+    "main.js": "/portfolio/static/js/main.149ce9a1.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/IMG_1906_2.png": "/portfolio/static/media/IMG_1906_2.e1567337111446027455.png",
+    "static/media/pdf.worker.min.mjs": "/portfolio/static/media/pdf.worker.min.5ef0e03453be5fb6f604.mjs",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/elementary.png": "/portfolio/static/media/elementary.fc5e4ec11d92036d14ae.png",
+    "static/media/bananabot.jpg": "/portfolio/static/media/bananabot.309ce510c3135d9e3339.jpg",
+    "static/media/honeybee.jpg": "/portfolio/static/media/honeybee.b33c6a76d7a58dbaa306.jpg",
+    "static/media/bolt_rw.jpg": "/portfolio/static/media/bolt_rw.5b975e031f86bc1f34ba.jpg",
+    "static/media/peltier.jpg": "/portfolio/static/media/peltier.84ecf50dcbcbba9eac24.jpg",
+    "static/media/puzzlebot.jpg": "/portfolio/static/media/puzzlebot.bfe8da61939969b806b3.jpg",
+    "static/media/sumobot_2.jpg": "/portfolio/static/media/sumobot_2.5af0226652d26c365811.jpg",
+    "static/media/space_bg.svg": "/portfolio/static/media/space_bg.05698379b8f349eb8d7a.svg",
+    "static/media/kidnapped.jpg": "/portfolio/static/media/kidnapped.56696655f534d54facd5.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.47c80e10.css.map": "/portfolio/static/css/main.47c80e10.css.map",
+    "main.149ce9a1.js.map": "/portfolio/static/js/main.149ce9a1.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26f93ef0.css",
-    "static/js/main.a232769a.js"
+    "static/css/main.47c80e10.css",
+    "static/js/main.149ce9a1.js"
   ]
 }
