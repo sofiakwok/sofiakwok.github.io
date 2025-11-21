@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio-template/static/css/main.4084a9ac.css",
-    "main.js": "/react-portfolio-template/static/js/main.4d75331d.js",
-    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js",
-    "static/media/IMG_1906_2.png": "/react-portfolio-template/static/media/IMG_1906_2.e1567337111446027455.png",
-    "static/media/pdf.worker.min.mjs": "/react-portfolio-template/static/media/pdf.worker.min.5ef0e03453be5fb6f604.mjs",
-    "static/media/bg-light.png": "/react-portfolio-template/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/elementary.png": "/react-portfolio-template/static/media/elementary.fc5e4ec11d92036d14ae.png",
-    "static/media/bananabot.jpg": "/react-portfolio-template/static/media/bananabot.309ce510c3135d9e3339.jpg",
-    "static/media/honeybee.jpg": "/react-portfolio-template/static/media/honeybee.b33c6a76d7a58dbaa306.jpg",
-    "static/media/bolt_rw.jpg": "/react-portfolio-template/static/media/bolt_rw.5b975e031f86bc1f34ba.jpg",
-    "static/media/peltier.jpg": "/react-portfolio-template/static/media/peltier.84ecf50dcbcbba9eac24.jpg",
-    "static/media/puzzlebot.jpg": "/react-portfolio-template/static/media/puzzlebot.bfe8da61939969b806b3.jpg",
-    "static/media/sumobot_2.jpg": "/react-portfolio-template/static/media/sumobot_2.5af0226652d26c365811.jpg",
-    "static/media/space_bg.svg": "/react-portfolio-template/static/media/space_bg.05698379b8f349eb8d7a.svg",
-    "static/media/kidnapped.jpg": "/react-portfolio-template/static/media/kidnapped.56696655f534d54facd5.jpg",
-    "index.html": "/react-portfolio-template/index.html",
-    "main.4084a9ac.css.map": "/react-portfolio-template/static/css/main.4084a9ac.css.map",
-    "main.4d75331d.js.map": "/react-portfolio-template/static/js/main.4d75331d.js.map",
-    "453.b05d8aa5.chunk.js.map": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/react-portfolio-template-spoon/static/css/main.26f93ef0.css",
+    "main.js": "/react-portfolio-template-spoon/static/js/main.a232769a.js",
+    "static/js/453.9af26e59.chunk.js": "/react-portfolio-template-spoon/static/js/453.9af26e59.chunk.js",
+    "static/media/IMG_1906_2.png": "/react-portfolio-template-spoon/static/media/IMG_1906_2.e1567337111446027455.png",
+    "static/media/pdf.worker.min.mjs": "/react-portfolio-template-spoon/static/media/pdf.worker.min.5ef0e03453be5fb6f604.mjs",
+    "static/media/bg-light.png": "/react-portfolio-template-spoon/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/elementary.png": "/react-portfolio-template-spoon/static/media/elementary.fc5e4ec11d92036d14ae.png",
+    "static/media/bananabot.jpg": "/react-portfolio-template-spoon/static/media/bananabot.309ce510c3135d9e3339.jpg",
+    "static/media/honeybee.jpg": "/react-portfolio-template-spoon/static/media/honeybee.b33c6a76d7a58dbaa306.jpg",
+    "static/media/bolt_rw.jpg": "/react-portfolio-template-spoon/static/media/bolt_rw.5b975e031f86bc1f34ba.jpg",
+    "static/media/peltier.jpg": "/react-portfolio-template-spoon/static/media/peltier.84ecf50dcbcbba9eac24.jpg",
+    "static/media/puzzlebot.jpg": "/react-portfolio-template-spoon/static/media/puzzlebot.bfe8da61939969b806b3.jpg",
+    "static/media/sumobot_2.jpg": "/react-portfolio-template-spoon/static/media/sumobot_2.5af0226652d26c365811.jpg",
+    "static/media/space_bg.svg": "/react-portfolio-template-spoon/static/media/space_bg.05698379b8f349eb8d7a.svg",
+    "static/media/kidnapped.jpg": "/react-portfolio-template-spoon/static/media/kidnapped.56696655f534d54facd5.jpg",
+    "index.html": "/react-portfolio-template-spoon/index.html",
+    "main.26f93ef0.css.map": "/react-portfolio-template-spoon/static/css/main.26f93ef0.css.map",
+    "main.a232769a.js.map": "/react-portfolio-template-spoon/static/js/main.a232769a.js.map",
+    "453.9af26e59.chunk.js.map": "/react-portfolio-template-spoon/static/js/453.9af26e59.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4084a9ac.css",
-    "static/js/main.4d75331d.js"
+    "static/css/main.26f93ef0.css",
+    "static/js/main.a232769a.js"
   ]
 }
