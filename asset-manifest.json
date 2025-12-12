@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5cc3e8f1.css",
-    "main.js": "/portfolio/static/js/main.485c54db.js",
+    "main.css": "/portfolio/static/css/main.08acb38c.css",
+    "main.js": "/portfolio/static/js/main.88c03eaf.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/IMG_1906_2.png": "/portfolio/static/media/IMG_1906_2.e1567337111446027455.png",
-    "static/media/pdf.worker.min.mjs": "/portfolio/static/media/pdf.worker.min.5ef0e03453be5fb6f604.mjs",
     "static/media/elementary.png": "/portfolio/static/media/elementary.fc5e4ec11d92036d14ae.png",
     "static/media/bananabot.jpg": "/portfolio/static/media/bananabot.309ce510c3135d9e3339.jpg",
     "static/media/honeybee.jpg": "/portfolio/static/media/honeybee.b33c6a76d7a58dbaa306.jpg",
@@ -16,12 +15,12 @@
     "static/media/space_bg.svg": "/portfolio/static/media/space_bg.56c515ed24712f3cb0e8.svg",
     "static/media/kidnapped.jpg": "/portfolio/static/media/kidnapped.56696655f534d54facd5.jpg",
     "index.html": "/portfolio/index.html",
-    "main.5cc3e8f1.css.map": "/portfolio/static/css/main.5cc3e8f1.css.map",
-    "main.485c54db.js.map": "/portfolio/static/js/main.485c54db.js.map",
+    "main.08acb38c.css.map": "/portfolio/static/css/main.08acb38c.css.map",
+    "main.88c03eaf.js.map": "/portfolio/static/js/main.88c03eaf.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cc3e8f1.css",
-    "static/js/main.485c54db.js"
+    "static/css/main.08acb38c.css",
+    "static/js/main.88c03eaf.js"
   ]
 }
