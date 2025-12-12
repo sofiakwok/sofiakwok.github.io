@@ -11,7 +11,7 @@ function PersonalProjects() {
         <div className="fun-grid">
             <div className="fun">
                 <a href="https://rexlab.ri.cmu.edu/" target="_blank" rel="noreferrer"><img src={honeybee} className="zoom" alt="thumbnail" width="100%"/></a>
-                <p>Subway Tracker</p>
+                <p>Programmed a train tracker for the Seattle transit system. Designed a PCB </p>
             </div>
             <div className="fun">
                 <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><img src={honeybee} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -19,7 +19,7 @@ function PersonalProjects() {
             </div>
             <div className="fun">
                 <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><img src={honeybee} className="zoom" alt="thumbnail" width="100%"/></a>
-                <p>Window</p>
+                <p>OPI</p>
             </div>
         </div>
     </div>
