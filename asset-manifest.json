@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.08acb38c.css",
-    "main.js": "/portfolio/static/js/main.88c03eaf.js",
-    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
-    "static/media/IMG_1906_2.png": "/portfolio/static/media/IMG_1906_2.e1567337111446027455.png",
-    "static/media/elementary.png": "/portfolio/static/media/elementary.fc5e4ec11d92036d14ae.png",
-    "static/media/bananabot.jpg": "/portfolio/static/media/bananabot.309ce510c3135d9e3339.jpg",
-    "static/media/honeybee.jpg": "/portfolio/static/media/honeybee.b33c6a76d7a58dbaa306.jpg",
-    "static/media/bolt_rw.jpg": "/portfolio/static/media/bolt_rw.5b975e031f86bc1f34ba.jpg",
-    "static/media/peltier.jpg": "/portfolio/static/media/peltier.84ecf50dcbcbba9eac24.jpg",
-    "static/media/puzzlebot.jpg": "/portfolio/static/media/puzzlebot.bfe8da61939969b806b3.jpg",
-    "static/media/sumobot_2.jpg": "/portfolio/static/media/sumobot_2.5af0226652d26c365811.jpg",
-    "static/media/light_space_bg.svg": "/portfolio/static/media/light_space_bg.3a43ee6a0bccf70b1f5d.svg",
-    "static/media/space_bg.svg": "/portfolio/static/media/space_bg.56c515ed24712f3cb0e8.svg",
-    "static/media/kidnapped.jpg": "/portfolio/static/media/kidnapped.56696655f534d54facd5.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.08acb38c.css.map": "/portfolio/static/css/main.08acb38c.css.map",
-    "main.88c03eaf.js.map": "/portfolio/static/js/main.88c03eaf.js.map",
-    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+    "main.css": "/static/css/main.6bad6b3a.css",
+    "main.js": "/static/js/main.b899f7e1.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/IMG_1906_2.png": "/static/media/IMG_1906_2.e1567337111446027455.png",
+    "static/media/elementary.png": "/static/media/elementary.fc5e4ec11d92036d14ae.png",
+    "static/media/bananabot.jpg": "/static/media/bananabot.309ce510c3135d9e3339.jpg",
+    "static/media/honeybee.jpg": "/static/media/honeybee.b33c6a76d7a58dbaa306.jpg",
+    "static/media/bolt_rw.jpg": "/static/media/bolt_rw.5b975e031f86bc1f34ba.jpg",
+    "static/media/peltier.jpg": "/static/media/peltier.84ecf50dcbcbba9eac24.jpg",
+    "static/media/puzzlebot.jpg": "/static/media/puzzlebot.bfe8da61939969b806b3.jpg",
+    "static/media/sumobot_2.jpg": "/static/media/sumobot_2.5af0226652d26c365811.jpg",
+    "static/media/light_space_bg.svg": "/static/media/light_space_bg.3a43ee6a0bccf70b1f5d.svg",
+    "static/media/space_bg.svg": "/static/media/space_bg.56c515ed24712f3cb0e8.svg",
+    "static/media/kidnapped.jpg": "/static/media/kidnapped.56696655f534d54facd5.jpg",
+    "index.html": "/index.html",
+    "main.6bad6b3a.css.map": "/static/css/main.6bad6b3a.css.map",
+    "main.b899f7e1.js.map": "/static/js/main.b899f7e1.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08acb38c.css",
-    "static/js/main.88c03eaf.js"
+    "static/css/main.6bad6b3a.css",
+    "static/js/main.b899f7e1.js"
   ]
 }
