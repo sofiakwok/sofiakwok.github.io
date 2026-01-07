@@ -15,19 +15,7 @@ function PersonalProjects() {
             </div>
             <div className="fun">
                 <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><img src={honeybee} className="zoom" alt="thumbnail" width="100%"/></a>
-                <p>Coffee Table</p>
-            </div>
-            <div className="fun">
-                <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><img src={honeybee} className="zoom" alt="thumbnail" width="100%"/></a>
-                <p>FRC Robotics mentoring</p>
-            </div>
-            <div className="fun">
-                <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><img src={honeybee} className="zoom" alt="thumbnail" width="100%"/></a>
-                <p>Tea Shelf</p>
-            </div>
-            <div className="fun">
-                <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><img src={honeybee} className="zoom" alt="thumbnail" width="100%"/></a>
-                <p>Stained Glass</p>
+                <p>FRC mentoring</p>
             </div>
             <div className="fun">
                 <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><img src={honeybee} className="zoom" alt="thumbnail" width="100%"/></a>
