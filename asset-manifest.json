@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6bad6b3a.css",
-    "main.js": "/static/js/main.b899f7e1.js",
+    "main.js": "/static/js/main.f3272b73.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/IMG_1906_2.png": "/static/media/IMG_1906_2.e1567337111446027455.png",
     "static/media/elementary.png": "/static/media/elementary.fc5e4ec11d92036d14ae.png",
@@ -16,11 +16,11 @@
     "static/media/kidnapped.jpg": "/static/media/kidnapped.56696655f534d54facd5.jpg",
     "index.html": "/index.html",
     "main.6bad6b3a.css.map": "/static/css/main.6bad6b3a.css.map",
-    "main.b899f7e1.js.map": "/static/js/main.b899f7e1.js.map",
+    "main.f3272b73.js.map": "/static/js/main.f3272b73.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bad6b3a.css",
-    "static/js/main.b899f7e1.js"
+    "static/js/main.f3272b73.js"
   ]
 }
