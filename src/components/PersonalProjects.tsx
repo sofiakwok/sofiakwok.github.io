@@ -21,6 +21,18 @@ function PersonalProjects() {
             </div>
             <div className="fun">
                 <a href="https://venerable.caltech.edu/" target="_blank" rel="noreferrer"><img src={opi} className="zoom" alt="thumbnail" width="100%"/></a>
+                <p>Stained glass</p>
+            </div>
+            <div className="fun">
+                <a href="https://venerable.caltech.edu/" target="_blank" rel="noreferrer"><img src={opi} className="zoom" alt="thumbnail" width="100%"/></a>
+                <p>Woodworking</p>
+            </div>
+            <div className="fun">
+                <a href="https://venerable.caltech.edu/" target="_blank" rel="noreferrer"><img src={opi} className="zoom" alt="thumbnail" width="100%"/></a>
+                <p>Coffee Table</p>
+            </div>
+            <div className="fun">
+                <a href="https://venerable.caltech.edu/" target="_blank" rel="noreferrer"><img src={opi} className="zoom" alt="thumbnail" width="100%"/></a>
                 <p>OPI is a party thrown every year that is completely designed, built, and painted by Caltech undergraduates. 
                     As a construction lead, I worked on ensuring the structural integrity of the dance platforms, as well as leading the party assembly and working with administration. </p>
             </div>
