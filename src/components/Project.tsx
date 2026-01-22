@@ -18,14 +18,14 @@ function Project() {
         <div className="projects-grid">
             <div className="project">
                 <a href="https://rexlab.ri.cmu.edu/" target="_blank" rel="noreferrer"><img src={biped} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://rexlab.ri.cmu.edu/" target="_blank" rel="noreferrer"><h2>Biped</h2></a>
+                <a href="https://rexlab.ri.cmu.edu/" target="_blank" rel="noreferrer"><h2>Bipedal Robot</h2></a>
                 <p>Designed, machined, and built a reaction wheel actuation system for a bipedal robot that controlled the pitch angle of the biped 
                     to allow it to recover from perturbations and perform dynamic motions. 
                     Wrote a controller in Python and C++ using linearized dynamics of the system to obtain a linear discrete-time optimization problem that could be solved as a quadratic program for real-time control.</p>
             </div>
             <div className="project">
                 <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><img src={honeybee} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><h2>Honeybee Robotics</h2></a>
+                <a href="https://ascelibrary.org/doi/10.1061/9780784484470.039" target="_blank" rel="noreferrer"><h2>In-situ Lunar Regolith Drill</h2></a>
                 <p>Supported redesign, validation, and testing of RESOURCE, an in-situ sampling system for lunar regolith. 
                     Sensors for in-situ sampling included a near-infrared spectrometer, a neutron spectrometer, and a dielectric spectroscopy probe.
                     Designed drill body to bit subsystem, sourced a custom optics system, and built testing setup for in-house evaluation.
@@ -55,18 +55,18 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://www.cms.caltech.edu/academics/courses/mecsee-169" target="_blank" rel="noreferrer"><img src={kidnapped} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.cms.caltech.edu/academics/courses/mecsee-169" target="_blank" rel="noreferrer"><h2>Kidnapped Robot Problem</h2></a>
+                <a href="https://www.cms.caltech.edu/academics/courses/mecsee-169" target="_blank" rel="noreferrer"><h2>Monte Carlo Localization</h2></a>
                 <p>The final project for Caltch CS/EE/ME 169 addressed the "kidnapped robot" problem, where a robot is set in a new location in a known map. 
                     We solved this problem by using Monte Carlo localization with 20 potential frames evaluated against the robot's depth camera data using multithreading in Python.</p>
             </div>
             <div className="project">
                 <a href="https://bioinstrumentation.mit.edu/" target="_blank" rel="noreferrer"><img src={mit} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://bioinstrumentation.mit.edu/" target="_blank" rel="noreferrer"><h2>MIT Bioinstrumentation Lab</h2></a>
+                <a href="https://bioinstrumentation.mit.edu/" target="_blank" rel="noreferrer"><h2>Thermal Haptic System</h2></a>
                 <p>Designed thermal haptic system using Peltier devices. Wrote and tuned a PD controller in Python regulating voltage with thermocouple feedback for temperature control.</p>
             </div>
             <div className="project">
                 <a href="https://www.elementaryml.com/" target="_blank" rel="noreferrer"><img src={elementary} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.elementaryml.com/" target="_blank" rel="noreferrer"><h2>Elementary Robotics</h2></a>
+                <a href="https://www.elementaryml.com/" target="_blank" rel="noreferrer"><h2>Dynamometer</h2></a>
                 <p>Designed, prototyped, and tested a motor dynamometer using C++ and Python in order to get accurate estimations on how a standard brushless motor would perform using Elementary’s custom firmware.</p>
             </div>
         </div>
