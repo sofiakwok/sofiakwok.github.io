@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6bad6b3a.css",
+    "main.css": "/static/css/main.73d411b4.css",
     "main.js": "/static/js/main.f3272b73.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/IMG_1906_2.png": "/static/media/IMG_1906_2.e1567337111446027455.png",
@@ -11,16 +11,16 @@
     "static/media/peltier.jpg": "/static/media/peltier.84ecf50dcbcbba9eac24.jpg",
     "static/media/puzzlebot.jpg": "/static/media/puzzlebot.bfe8da61939969b806b3.jpg",
     "static/media/sumobot_2.jpg": "/static/media/sumobot_2.5af0226652d26c365811.jpg",
-    "static/media/light_space_bg.svg": "/static/media/light_space_bg.3a43ee6a0bccf70b1f5d.svg",
-    "static/media/space_bg.svg": "/static/media/space_bg.56c515ed24712f3cb0e8.svg",
     "static/media/kidnapped.jpg": "/static/media/kidnapped.56696655f534d54facd5.jpg",
+    "static/media/space_bg.svg": "/static/media/space_bg.140d6f7d8bc5c668d834.svg",
+    "static/media/light_space_bg.svg": "/static/media/light_space_bg.c216e64c9709ce014999.svg",
     "index.html": "/index.html",
-    "main.6bad6b3a.css.map": "/static/css/main.6bad6b3a.css.map",
+    "main.73d411b4.css.map": "/static/css/main.73d411b4.css.map",
     "main.f3272b73.js.map": "/static/js/main.f3272b73.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bad6b3a.css",
+    "static/css/main.73d411b4.css",
     "static/js/main.f3272b73.js"
   ]
 }
