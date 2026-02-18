@@ -17,8 +17,8 @@ function Project() {
         <h1>Portfolio</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://rexlab.ri.cmu.edu/" target="_blank" rel="noreferrer"><img src={biped} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://rexlab.ri.cmu.edu/" target="_blank" rel="noreferrer"><h2>Bipedal Robot</h2></a>
+                <a href="https://roboticexplorationlab.org/" target="_blank" rel="noreferrer"><img src={biped} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://roboticexplorationlab.org/" target="_blank" rel="noreferrer"><h2>Bipedal Robot</h2></a>
                 <p>Designed, machined, and built a reaction wheel actuation system for a bipedal robot that controlled the pitch angle of the biped 
                     to allow it to recover from perturbations and perform dynamic motions. 
                     Wrote a controller in Python and C++ using linearized dynamics of the system to obtain a linear discrete-time optimization problem that could be solved as a quadratic program for real-time control.</p>
