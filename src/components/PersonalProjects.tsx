@@ -2,6 +2,7 @@ import React from "react";
 
 import opi from '../assets/images/personal-projects/opi.jpg'
 import xbot from '../assets/images/personal-projects/bLcjtTi.png'
+import side_table from '../assets/images/personal-projects/side_table.jpg'
 
 import '../assets/styles/PersonalProjects.scss';
 
@@ -20,8 +21,8 @@ function PersonalProjects() {
                     Mentoring high schoolers on Team 488 (Team XBOT) in assembly design, CAD, and GD&T.</p>
             </div>
             <div className="fun">
-                <a href="https://venerable.caltech.edu/" target="_blank" rel="noreferrer"><img src={opi} className="zoom" alt="thumbnail" width="100%"/></a>
-                <p>Stained glass</p>
+                <img src={side_table} className="zoom" alt="thumbnail" width="100%"/>
+                <p>Built a fun side table that also doubles as a lamp. Made of glass blocks, kiln-dried pine, and LED strips.</p>
             </div>
             <div className="fun">
                 <a href="https://venerable.caltech.edu/" target="_blank" rel="noreferrer"><img src={opi} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -29,7 +30,7 @@ function PersonalProjects() {
             </div>
             <div className="fun">
                 <a href="https://venerable.caltech.edu/" target="_blank" rel="noreferrer"><img src={opi} className="zoom" alt="thumbnail" width="100%"/></a>
-                <p>Coffee Table</p>
+                <p>Stained Glass</p>
             </div>
             <div className="fun">
                 <a href="https://venerable.caltech.edu/" target="_blank" rel="noreferrer"><img src={opi} className="zoom" alt="thumbnail" width="100%"/></a>
