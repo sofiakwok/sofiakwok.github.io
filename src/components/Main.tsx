@@ -17,8 +17,8 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://github.com/sofiakwok" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/sofiakwok/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://github.com/sofiakwok" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="mailto:sofiakwok8@gmail.com" target="_blank" rel="noreferrer"><MailIcon/></a>
             <a href="https://drive.google.com/file/d/1ioJZOdRj4lQY6y68mH5pT8S_YvrGLlZZ/view?usp=sharing" target="_blank" rel="noreferrer"><Article/></a>
           </div>
